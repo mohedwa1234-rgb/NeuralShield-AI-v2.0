@@ -1,7 +1,5 @@
 fastapi
 uvicorn
-librosa
-numpy
-fpdf
 python-multipart
+
 
