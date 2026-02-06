@@ -2,19 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
-@layer base {
-  :root {
-    --background: 0 0% 100%;
-    --foreground: 222.2 84% 4.9%;
-    /* ألوان أخرى إذا بدك تضيف */
-  }
-  
-  .dark {
-    --background: 222.2 84% 4.9%;
-    --foreground: 210 40% 98%;
-  }
-}
-
+/* أضف أي custom styles هنا إذا بدك */
 body {
   @apply bg-background text-foreground;
 }
